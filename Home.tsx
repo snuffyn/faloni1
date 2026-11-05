@@ -152,7 +152,7 @@ export default function Home() {
 
           <div className="hero-visual">
             <div className="visual-frame">
-              <img src="/assets/workshop.jpg" alt="Interior moderno de oficina automotiva com carro em manutenção" />
+              <img src="./assets/workshop.jpg" alt="Interior moderno de oficina automotiva com carro em manutenção" />
               <div className="visual-shade" />
               <div className="visual-topline"><span>MASTER CAR</span><span>GO / 62</span></div>
               <div className="visual-bottomline"><span className="visual-index">01</span><span className="visual-caption">Precisão em cada detalhe</span></div>
